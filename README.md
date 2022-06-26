@@ -3,7 +3,7 @@ A bot for buying and selling NFT in PVU (October 2021 project)
 ____
 
 Before using it, you need to install NuGet packages:
-+ Ethereum.Web3
++ Nethereum.Web3
 + AngleSharp
 
 Edit data for:
